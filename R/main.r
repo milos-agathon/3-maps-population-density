@@ -146,7 +146,7 @@ rayshader::plot_gg(
     ggobj = p1,
     width = w / 50,
     height = h / 50,
-    windowsize c(w, h),
+    windowsize = c(w, h),
     scale = 750,
     solid = F,
     shadow = T,
